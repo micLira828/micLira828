@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi There! My name is Michelle!</h1>
+# Hi There! My name is Michelle!
 
 
   ## My experience is in retail, in these companies:
