@@ -1,6 +1,7 @@
 
 # Hi there! My name is Michelle! 
-  
+
+
   ## My experience is in retail, in these companies:
   * Macys
   * SD Mesa College
@@ -9,8 +10,8 @@
     ## ...and sales in these companies:
   * Social Sampling
   * Bee Promotions
-    
-  
+
+
   ## But I want to transition to a career in tech, in design or development.
   ## Here are my skills in these areas:👋
   
@@ -38,4 +39,5 @@
   | Redux                | Illustrator   |  Sound Design     |
   | JQuery               | CSS3          | Video Production  |
 
-</div>
+  
+
