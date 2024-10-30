@@ -1,20 +1,29 @@
+<h1 align=center>
+ Hi There! My name is Michelle!
+</h1>
 
-# Hi There! My name is Michelle!
 
+   <h2 align=center> My experience is in retail, in these companies:</h2>
 
-  ## My experience is in retail, in these companies:
-  * Macys
+   <div display = flex, align = center>
+  *Macys
   * SD Mesa College
   * My Art Shed
-  
-    ## ...and sales in these companies:
+   </div>
+
+  <h2 align=center> 
+    ...and sales in these companies:
+   </h2>
+  <div display = flex, align = center>
   * Social Sampling
   * Bee Promotions
+  </div>
 
+<div align = center>
+  <h3>But I want to transition to a career in tech, in design or development.  </h3>
+  <h4>Here are my skills in these areas:👋</h4>
+ 
 
-  ## But I want to transition to a career in tech, in design or development.
-  ## Here are my skills in these areas:👋
-  
   ### Backend
   | Python               | JS            |   SQL       |
   | :------------------- | :----------:  | ----------: |
@@ -22,8 +31,7 @@
   | SQL Alchemy           | Express      | SQLite3     |
   | Flask                 | ORMs         | SQL         |
   
-  
-  
+
   ### Frontend
   | Libraries            | Layouts       |   Languages |
   | :------------------- | :----------:  | ----------: |
@@ -38,6 +46,8 @@
   | Adobe XD              | SVG          |  Photoshop  |
   | Redux                | Illustrator   |  Sound Design     |
   | JQuery               | CSS3          | Video Production  |
+ 
+  </div>
 
   
 
