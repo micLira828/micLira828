@@ -20,9 +20,7 @@
   </div>
 
 <div align = center>
-  <h3>But I want to transition to a career in tech, in design or development.  </h3>
-  <h4>Here are my skills in these areas:👋</h4>
- 
+  <h3>But I have skills in these areas: 👋 </h3>
 
   ### Backend
   | Python               | JS            |   SQL       |
